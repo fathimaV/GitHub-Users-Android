@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GitHubPagination</string>
+    <string name="title">GitHub Users</string>
+    <string name="error_message">Something went wrong</string>
+    <string name="username">userName</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="search">Search</string>
+    <string name="search_user">search user</string>
+    <string name="title_activity_searchable">Search Results</string>
+</resources>
